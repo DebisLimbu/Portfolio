@@ -1,13 +1,13 @@
 # Hi, I'm Debis Limbu
 
 ## About me
-- Computer Science Graduate (Software Enginnering)
+- Computer Science (Software Enginnering) Graduate 
 - Interested in backend, systems and problem-solving
-- Currently learning: C++, Java
+- Currently learning: Java, Python, SQL, C++ 
 
 ## Experience
-- Languages: C++, Python, Java
-- Tools: Visual Studio
+- Languages: Python, Java, SQL, C++
+- Tools: IntelliJ, MySQL, BlueJ, PyCharm Visual Studio
 
 ## Projects
 
